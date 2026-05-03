@@ -4,7 +4,7 @@ Saya Field Assistant dengan 4 tahun pengalaman administrasi penjualan 25+ retail
 Skill utama: Excel, VLOOKUP, Pivot Table, Aging Report.
 
 ## 📊 Portfolio
-**[Download Portfolio Aging Report PDF](./Portfolio_SalesAdmin_AzizMaulana.pdf)**
+**[Download Portfolio Aging Report PDF](https://github.com/azizmau2525/Portofolio-Sales-Admin/blob/main/Portofolio_AgingReport_AzizMaulana.pdf)**
 
 Isi: Contoh Laporan Monitoring Piutang yang saya buat untuk SPV. 
 Dibuat dengan Excel IF + Pivot Table dari data transaksi harian.
